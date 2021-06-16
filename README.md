@@ -1,0 +1,2 @@
+# batteries.fyi
+Static website
