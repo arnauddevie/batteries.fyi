@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://batteries.fyi/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://www.batteries.fyi/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>http://batteries.fyi/</loc>
+<loc>http://www.batteries.fyi/</loc>
 </url>
 <url>
-<loc>http://batteries.fyi/batteries-manufacturers.html</loc>
+<loc>http://www.batteries.fyi/batteries-manufacturers.html</loc>
 <lastmod>2021-06-14T21:28:04-07:00</lastmod>
 </url>
 <url>
-<loc>http://batteries.fyi/battery-communities.html</loc>
+<loc>http://www.batteries.fyi/battery-communities.html</loc>
 <lastmod>2021-06-14T22:33:10-07:00</lastmod>
 </url>
 <url>
-<loc>http://batteries.fyi/battery-conferences.html</loc>
+<loc>http://www.batteries.fyi/battery-conferences.html</loc>
 <lastmod>2021-06-15T21:10:29-07:00</lastmod>
 </url>
 <url>
-<loc>http://batteries.fyi/battery-data-repositories.html</loc>
+<loc>http://www.batteries.fyi/battery-data-repositories.html</loc>
 <lastmod>2021-06-14T21:26:40-07:00</lastmod>
 </url>
 <url>
-<loc>http://batteries.fyi/battery-models.html</loc>
+<loc>http://www.batteries.fyi/battery-models.html</loc>
 <lastmod>2021-06-15T21:37:08-07:00</lastmod>
 </url>
 <url>
-<loc>http://batteries.fyi/battery-podcasts.html</loc>
+<loc>http://www.batteries.fyi/battery-podcasts.html</loc>
 <lastmod>2021-06-15T21:10:19-07:00</lastmod>
 </url>
 <url>
-<loc>http://batteries.fyi/battery-retailers.html</loc>
+<loc>http://www.batteries.fyi/battery-retailers.html</loc>
 <lastmod>2021-06-14T22:09:12-07:00</lastmod>
 </url>
 <url>
-<loc>http://batteries.fyi/battery-testers.html</loc>
+<loc>http://www.batteries.fyi/battery-testers.html</loc>
 <lastmod>2021-06-14T22:26:56-07:00</lastmod>
 </url>
 <url>
-<loc>http://batteries.fyi/page/2/</loc>
+<loc>http://www.batteries.fyi/page/2/</loc>
 </url>
 </urlset>
