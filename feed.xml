@@ -3,7 +3,7 @@
     <title>batteries.fyi</title>
     <link href="http://www.batteries.fyi/feed.xml" rel="self" />
     <link href="http://www.batteries.fyi" />
-    <updated>2021-06-15T23:13:43-07:00</updated>
+    <updated>2021-06-15T23:26:58-07:00</updated>
     <author>
         <name>Arnaud</name>
     </author>
@@ -99,7 +99,7 @@
         <link href="http://www.batteries.fyi/battery-testers.html"/>
         <id>http://www.batteries.fyi/battery-testers.html</id>
 
-        <updated>2021-06-15T23:13:43-07:00</updated>
+        <updated>2021-06-15T23:26:58-07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -112,27 +112,27 @@
 </ul>
 </div>
 <h2 id="mcetoc_1f871m26053">Lab-grade</h2>
-<p class="msg--highlight">Arbin Instruments - <a href="https://www.arbin.com/products/battery-test-equipment/" target="_blank" rel="noopener noreferrer">Website</a></p>
+<h3>Arbin Instruments - <a href="https://www.arbin.com/products/battery-test-equipment/" target="_blank" rel="noopener noreferrer">Website</a></h3>
 <blockquote>
 <p>Arbin is a global leader in manufacturing test equipment for batteries and other energy storage device applications.</p>
 </blockquote>
-<p>Biologic - <a href="https://www.biologic.net/product_category/battery-cyclers/" target="_blank" rel="noopener noreferrer">Website</a></p>
+<h3>Biologic - <a href="https://www.biologic.net/product_category/battery-cyclers/" target="_blank" rel="noopener noreferrer">Website</a></h3>
 <blockquote>
 <p>BioLogic’s battery cycler line-up is made up of two complementary ranges of instruments, the high throughput BCS-800 Series battery cyclers and the R&amp;D grade MPG-200 Series battery testers.</p>
 <p>The result is a powerful, modular system suitable for any organization specializing in battery testing and research, from industry to academia, quality control to certification.</p>
 </blockquote>
-<p>Maccor - <a href="http://www.maccor.com/" target="_blank" rel="noopener noreferrer">Website</a></p>
+<h3>Maccor - <a href="http://www.maccor.com/" target="_blank" rel="noopener noreferrer">Website</a></h3>
 <blockquote>
 <p>Maccor equipment is used by researchers, manufacturers (production, quality control), and organizations needing to perform detailed evaluation of batteries and other energy storage devices.</p>
 </blockquote>
-<p>Neware - <a href="https://newarebattery.com/" target="_blank" rel="noopener noreferrer">Website</a></p>
+<h3>Neware - <a href="https://newarebattery.com/" target="_blank" rel="noopener noreferrer">Website</a></h3>
 <blockquote>
 <p>We offers more than 500+ models of battery testers for various requirements of customers worldwide.</p>
 </blockquote>
 <hr>
 <h2 id="mcetoc_1f871m26054">Hobbyist</h2>
-<p>Computerized Battery Analyzer (CBA) - <a href="http://www.westmountainradio.com/cba.php" target="_blank" rel="noopener noreferrer">Store</a></p>
-<p>Hyperion - <a href="https://hyperion-world.com/en/charger-battery/chargers/all-chargers" target="_blank" rel="noopener noreferrer">Store</a></p>
+<h3>Computerized Battery Analyzer (CBA) - <a href="http://www.westmountainradio.com/cba.php" target="_blank" rel="noopener noreferrer">Store</a></h3>
+<h3>Hyperion - <a href="https://hyperion-world.com/en/charger-battery/chargers/all-chargers" target="_blank" rel="noopener noreferrer">Store</a></h3>
 <hr>
 <h2 id="mcetoc_1f871m26055">Open Source Hardware</h2>
             ]]>
@@ -158,8 +158,23 @@
         <link href="http://www.batteries.fyi/battery-data-repositories.html"/>
         <id>http://www.batteries.fyi/battery-data-repositories.html</id>
 
-        <updated>2021-06-14T21:26:40-07:00</updated>
+        <updated>2021-06-15T23:25:04-07:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                <h2>Academic</h2>
+<h3>Battery Archive - <a href="https://batteryarchive.org/" target="_blank" rel="noopener noreferrer">Website</a></h3>
+<blockquote>
+<p>A repository for easy visualization, analysis, and comparison of battery data across institutions.</p>
+</blockquote>
+<hr>
+<h2>Others</h2>
+<h3>Lygte Info - <a href="https://lygte-info.dk/review/batteries2012/Common18650IndividualTest%20UK.html" target="_blank" rel="noopener noreferrer">Website</a></h3>
+<blockquote>
+<p>This is the links to all the battery reviews.</p>
+</blockquote>
+<p> </p>
+            ]]>
+        </content>
     </entry>
 </feed>
