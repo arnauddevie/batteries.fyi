@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "batteries.fyi",
     "description": "",
-    "home_page_url": "http://www.batteries.fyi",
-    "feed_url": "http://www.batteries.fyi/feed.json",
+    "home_page_url": "http://batteries.fyi",
+    "feed_url": "http://batteries.fyi/feed.json",
     "user_comment": "",
     "author": {
         "name": "Arnaud"
     },
     "items": [
         {
-            "id": "http://www.batteries.fyi/battery-conferences.html",
-            "url": "http://www.batteries.fyi/battery-conferences.html",
+            "id": "http://batteries.fyi/battery-conferences.html",
+            "url": "http://batteries.fyi/battery-conferences.html",
             "title": "Battery Conferences",
             "author": {
                 "name": "Arnaud"
@@ -22,8 +22,8 @@
             "date_modified": "2021-06-15T21:10:29-07:00"
         },
         {
-            "id": "http://www.batteries.fyi/battery-podcasts.html",
-            "url": "http://www.batteries.fyi/battery-podcasts.html",
+            "id": "http://batteries.fyi/battery-podcasts.html",
+            "url": "http://batteries.fyi/battery-podcasts.html",
             "title": "Battery Podcasts",
             "author": {
                 "name": "Arnaud"
@@ -34,8 +34,8 @@
             "date_modified": "2021-06-15T21:10:19-07:00"
         },
         {
-            "id": "http://www.batteries.fyi/battery-communities.html",
-            "url": "http://www.batteries.fyi/battery-communities.html",
+            "id": "http://batteries.fyi/battery-communities.html",
+            "url": "http://batteries.fyi/battery-communities.html",
             "title": "Battery Communities",
             "content_html": "<h2>Professionals</h2>\n<p>Battery Brunch - <a href=\"https://www.batterybrunch.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Website</a></p>\n<blockquote>\n<p><br><strong>A Worldwide Community of Battery Professionals</strong></p>\n<p>Battery Brunch is a community of 3000+ professionals from 800+ organizations, including Tesla, Panasonic, Apple, Voltaiq, Google, A123, GM, Ford, FCA, Rivian, Form Energy, LG Chem, Highpower International, Stanford, MIT, and more, and was featured in this ACS Energy Letters article.<br><br>Battery Brunch initially began as a monthly gathering of Bay Area battery professionals in September 2019. Since then, we've grown to become a global community of industry, academia, finance, and policy leaders!​<br><br>Come make new friends, share stories, and be a part of this vibrant battery community.</p>\n</blockquote>\n<p>BatteryStreet.org - <a href=\"https://t.co/uQEQpwxf1g?amp=1\" target=\"_blank\" rel=\"noopener noreferrer\">Register</a></p>\n<blockquote>\n<p>Welcome home battery folks! The Battery Street is the slack space where we gather all battery communities together! You'll have access to the top battery organizations, enjoy various battery events, meet amazing battery professionals, discuss latest battery innovations, work on cool battery projects, and also find your dream battery jobs! <br><br>Let's start from telling us more about yourself, and let us know how we can together make the battery street thrive! </p>\n</blockquote>\n<hr>\n<h2>Hobbyists</h2>\n<p> </p>",
             "author": {
@@ -47,8 +47,8 @@
             "date_modified": "2021-06-14T22:33:10-07:00"
         },
         {
-            "id": "http://www.batteries.fyi/battery-retailers.html",
-            "url": "http://www.batteries.fyi/battery-retailers.html",
+            "id": "http://batteries.fyi/battery-retailers.html",
+            "url": "http://batteries.fyi/battery-retailers.html",
             "title": "Battery Retailers",
             "author": {
                 "name": "Arnaud"
@@ -59,8 +59,8 @@
             "date_modified": "2021-06-14T22:09:12-07:00"
         },
         {
-            "id": "http://www.batteries.fyi/battery-models.html",
-            "url": "http://www.batteries.fyi/battery-models.html",
+            "id": "http://batteries.fyi/battery-models.html",
+            "url": "http://batteries.fyi/battery-models.html",
             "title": "Battery Models",
             "content_html": "<blockquote>\n<p>All models are wrong, some are useful.</p>\n</blockquote>",
             "author": {
@@ -72,8 +72,8 @@
             "date_modified": "2021-06-15T21:37:08-07:00"
         },
         {
-            "id": "http://www.batteries.fyi/battery-testers.html",
-            "url": "http://www.batteries.fyi/battery-testers.html",
+            "id": "http://batteries.fyi/battery-testers.html",
+            "url": "http://batteries.fyi/battery-testers.html",
             "title": "Battery Testers",
             "content_html": "<div class=\"post__toc\">\n<h3>Table of Contents</h3>\n<ul>\n<li><a href=\"#mcetoc_1f871m26053\">Lab-grade</a></li>\n<li><a href=\"#mcetoc_1f871m26054\">Hobbyist</a></li>\n<li><a href=\"#mcetoc_1f871m26055\">Open Source Hardware</a></li>\n</ul>\n</div>\n<h2 id=\"mcetoc_1f871m26053\">Lab-grade</h2>\n<p class=\"msg--highlight\">Arbin Instruments - <a href=\"https://www.arbin.com/products/battery-test-equipment/\" target=\"_blank\" rel=\"noopener noreferrer\">Website</a></p>\n<blockquote>\n<p>Arbin is a global leader in manufacturing test equipment for batteries and other energy storage device applications.</p>\n</blockquote>\n<p>Biologic - <a href=\"https://www.biologic.net/product_category/battery-cyclers/\" target=\"_blank\" rel=\"noopener noreferrer\">Website</a></p>\n<blockquote>\n<p>BioLogic’s battery cycler line-up is made up of two complementary ranges of instruments, the high throughput BCS-800 Series battery cyclers and the R&amp;D grade MPG-200 Series battery testers.</p>\n<p>The result is a powerful<strong>, modular system suitable for any organization specializing in battery testing and research, from industry to academia, quality control to certification.</strong></p>\n</blockquote>\n<p>Maccor - <a href=\"http://www.maccor.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Website</a></p>\n<blockquote>\n<p>Maccor equipment is used by researchers, manufacturers (production, quality control), and organizations needing to perform detailed evaluation of batteries and other energy storage devices.</p>\n</blockquote>\n<p>Neware - <a href=\"https://newarebattery.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Website</a></p>\n<blockquote>\n<p>We offers more than 500+ models of battery testers for various requirements of customers worldwide.</p>\n</blockquote>\n<hr>\n<h2 id=\"mcetoc_1f871m26054\">Hobbyist</h2>\n<p>Computerized Battery Analyzer (CBA) - <a href=\"http://www.westmountainradio.com/cba.php\" target=\"_blank\" rel=\"noopener noreferrer\">Store</a></p>\n<p>Hyperion - <a href=\"https://hyperion-world.com/en/charger-battery/chargers/all-chargers\" target=\"_blank\" rel=\"noopener noreferrer\">Store</a></p>\n<hr>\n<h2 id=\"mcetoc_1f871m26055\">Open Source Hardware</h2>",
             "author": {
@@ -85,8 +85,8 @@
             "date_modified": "2021-06-14T22:26:56-07:00"
         },
         {
-            "id": "http://www.batteries.fyi/batteries-manufacturers.html",
-            "url": "http://www.batteries.fyi/batteries-manufacturers.html",
+            "id": "http://batteries.fyi/batteries-manufacturers.html",
+            "url": "http://batteries.fyi/batteries-manufacturers.html",
             "title": "Battery Manufacturers",
             "author": {
                 "name": "Arnaud"
@@ -97,8 +97,8 @@
             "date_modified": "2021-06-14T21:28:04-07:00"
         },
         {
-            "id": "http://www.batteries.fyi/battery-data-repositories.html",
-            "url": "http://www.batteries.fyi/battery-data-repositories.html",
+            "id": "http://batteries.fyi/battery-data-repositories.html",
+            "url": "http://batteries.fyi/battery-data-repositories.html",
             "title": "Battery Data Repositories",
             "author": {
                 "name": "Arnaud"
